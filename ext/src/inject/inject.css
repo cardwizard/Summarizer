@@ -1,0 +1,35 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+ 
+ .show{
+	 position: fixed;
+	 background:#ecf0f1;
+	 box-shadow: 0 0 8px silver;
+	 right:10px;
+	 bottom:10px;
+	 z-index: 2;
+	 width: 400px;
+ }
+ 
+ #summary {
+	 margin: 15px;
+	 background:#fff;
+ }
+ #summary  > div{
+	border-bottom: 1px solid #eee;
+	padding: 15px;
+	margin-bottom: 5px;
+ }
+ #summary  > div:hover{
+	 box-shadow: 0 0 12px #eee;
+ }
+ 
+ #title_bar{
+	text-align: center;
+	line-height: 25px;
+	padding: 10px 0;
+	color: white;
+	background: #34495e;
+	font-size: 16px;
+ }
