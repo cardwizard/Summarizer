@@ -4,7 +4,7 @@
 Summarizer is a simple extension which let's you summarize any large blob of text on your web page. It shows the inputs in a modal box in the bottom right corner of the page and shows a point wise summary to the user.
 
 ## Where do I get this from?
-The chrome extension has been pushed to the store and can be installed from [here] (https://chrome.google.com/webstore/detail/conciser/hbfkehncoimndkjefaibijlhehajinga)
+The chrome extension has been pushed to the store and can be installed from  [here](https://chrome.google.com/webstore/detail/conciser/hbfkehncoimndkjefaibijlhehajinga)
 
 ## Usage
 To use this tool - 
